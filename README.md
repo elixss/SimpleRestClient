@@ -1,5 +1,5 @@
 # SimpleRestClient
-A simple REST client that allows you to perform simple GET requests
+A C# beginner project that lets you perform GET requests to a REST API or something else
 
 # Requirements
 - PC that is connected to the internet
