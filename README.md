@@ -1,6 +1,10 @@
 # SimpleRestClient
 A simple REST client that allows you to perform simple GET requests
 
+# Requirements
+- PC that is connected to the internet
+- .NET 6.0 or never
+
 # Usage
 Download the program [here](https://test.com 'Download here'). Execute it. It **will** be shown as virus from Windows Defender, you'll need to approve.
 
