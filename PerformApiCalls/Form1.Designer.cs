@@ -232,7 +232,6 @@
             this.MaximizeBox = false;
             this.Name = "MainWindow";
             this.Text = "REST client";
-            this.Load += new System.EventHandler(this.MainWindow_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

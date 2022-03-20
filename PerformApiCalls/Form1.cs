@@ -106,9 +106,5 @@ namespace PerformApiCalls
             Close();
         }
 
-        private void MainWindow_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
