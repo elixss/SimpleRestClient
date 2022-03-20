@@ -27,9 +27,7 @@ namespace PerformApiCalls
                 using (var streamReader = new StreamReader(response.GetResponseStream()))
                 {
                     var result = streamReader.ReadToEnd();
-                    string json = JsonConvert.SerializeObject(result);
-                    Console.WriteLine(json);
-                    ResponseTextBox.Text = json;
+                    ResponseTextBox.Text = result;
                 };
             }
             catch (Exception ex)
