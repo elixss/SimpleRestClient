@@ -6,7 +6,7 @@ A simple REST client that allows you to perform simple GET requests
 - .NET 6.0 or never
 
 # Usage
-Download the program [here](https://github.com/elixss/SimpleRestClient/blob/master/Download/PerformApiCalls.exe 'Download here'). Execute it. It **will** be shown as virus from Windows Defender, you'll need to approve.
+Download the program [here](https://github.com/elixss/SimpleRestClient/blob/master/Download/PerformApiCalls.exe 'Download here'). To download, click on "View Raw", or on the download button. Windows Defender might blow up when you execute it and maybe delete it.
 
 # Perform Requests
 Everything is pretty much straight foward. Currently, you can only do requests with GET. Formatted strings are coming later.
