@@ -3,7 +3,7 @@ A beginner project written in C# that allows you to perform GET requests to a RE
 
 # Requirements
 - PC that is connected to the internet
-- .NET 6.0 or newer
+- .NET 6.0 (x86) or newer
 
 # Usage
 Download the program [here](https://github.com/elixss/SimpleRestClient/blob/master/Download/PerformApiCalls.exe 'Download here'). To download, click on "View Raw", or on the download button. Windows Defender might blow up when you execute it and maybe delete it.
