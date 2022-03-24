@@ -6,7 +6,7 @@ A beginner project written in C# that allows you to perform GET requests to a RE
 - .NET 6.0 or newer
 
 # Usage
-Download the program [here](https://github.com/elixss/SimpleRestClient/blob/master/Download/PerformApiCalls.exe 'Download here'). To download, click on "View Raw", or on the download button. Windows Defender might blow up when you execute it and maybe delete it.
+Download the program [here](https://github.com/elixss/SimpleRestClient/tree/master/Download 'Download here'). To download, click on "View Raw", or on the download button. Windows Defender might blow up when you execute it and maybe delete it.
 
 # Perform Requests
 Everything is pretty much straight foward. Currently, you can only do requests with GET. Formatted strings are coming later.
