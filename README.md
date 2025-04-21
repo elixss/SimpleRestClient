@@ -18,4 +18,4 @@ Click [here](https://discord.gg/kB2zAqzJTu 'Support server') to get help.
 
 # Copyright
 The logo used in the top right corner and in the taskbar of this program is owned by Microsoft. It is the OneDrive Icon preinstalled with Windows. I ask Microsoft to contact me when there are issues regarding me using the logo, please email me.
-OTE2OTkyMDg0Nzk0Mjc3ODk4.G_ko-t.iIVNPHZnaEgoxXgbarfYSqENXD729bbXvoAbfg
+
